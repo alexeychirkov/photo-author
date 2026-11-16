@@ -1,0 +1,16 @@
+/.venv/
+/.pytest_cache/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Local photos and metadata backups
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.bak
+*.bak.*
+*_original
+
+# Python build output
+/build/
+/dist/
